@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rohitsadaphule
 - 👀 I’m interested in Software testing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on developing and automating applications.
 - 📫 How to reach me ... rohit.sadaphule15@gmail.com
 
 <!---
